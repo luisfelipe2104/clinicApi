@@ -1,0 +1,7 @@
+.imagem{
+    width: 100vw;
+    height: 60vh;
+    object-fit: cover;
+    object-position: center;
+    filter: blur(5px);
+}

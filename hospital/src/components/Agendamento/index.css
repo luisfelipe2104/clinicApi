@@ -1,0 +1,34 @@
+.app{
+    display: flex;
+    gap: 30px;
+    flex-direction: column;
+}
+
+.titulos{
+    text-align: center;
+}
+
+.opcoes{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+
+    gap: 10px;
+
+}
+
+.botao{
+    margin: 0 auto;
+    width: 250px;
+}
+
+.input{
+    margin: 0 auto;
+    width: 250px;
+    text-align: center;
+}

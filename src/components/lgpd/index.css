@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+.container-lgpd {
+    text-align: center;
+    margin: 50px;
+}
+
+.titulo-lgpd{
+    color:rgb(27, 165, 199);
+    text-align: center;
+    font-size: xx-large;
+}

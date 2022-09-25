@@ -1,0 +1,28 @@
+.container{
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+    padding: 0 5vw 0 5vw;
+}
+
+.link{
+    text-decoration: none;
+    color: rgb(75, 75, 75);
+}
+
+.link:hover{
+    text-decoration: none;
+    color: none; 
+}
+
+.brand{
+    color:rgb(27, 165, 199);
+}
+
+.titulo-da-pagina{
+    color:rgb(27, 165, 199);
+}
+
+.titulo-da-pagina:hover{
+    color:rgb(27, 165, 199);
+}

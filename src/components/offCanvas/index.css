@@ -1,0 +1,28 @@
+.me-2{
+    background-color: rgb(20, 125, 167);
+}
+
+.border{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+
+.info{
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    margin: 10px;
+
+}
+
+.info h1{
+    font-size: x-large;
+    color:rgb(27, 165, 199);
+}
+
+.titulo-consultas{
+    color:rgb(27, 165, 199);
+}
